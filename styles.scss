@@ -1,0 +1,17 @@
+$red: red;
+$darkred: #880b0b;
+$hover: blue;
+$textcolor:white;
+
+button {
+    background: linear-gradient($red, $darkred);
+    color:$textcolor;
+    padding:10px 8px 10px 8px;
+    text-transform:uppercase;
+    border:0;
+    cursor:pointer;
+        
+    &:hover {
+        background: linear-gradient($darkred, $red);
+    }
+}
