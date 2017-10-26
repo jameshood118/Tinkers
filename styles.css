@@ -1,0 +1,4 @@
+button { background: linear-gradient(red, #880b0b); color: white; padding: 10px 8px 10px 8px; text-transform: uppercase; border: 0; cursor: pointer; }
+button:hover { background: linear-gradient(#880b0b, red); }
+
+/*# sourceMappingURL=styles.css.map */
