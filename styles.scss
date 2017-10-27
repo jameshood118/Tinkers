@@ -3,6 +3,8 @@ $darkred: #880b0b;
 $hover: blue;
 $textcolor:white;
 
+html {width:100%}
+
 button {
     background: linear-gradient($red, $darkred);
     color:$textcolor;
