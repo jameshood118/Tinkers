@@ -1,0 +1,5 @@
+{
+    "typescript.check.npmIsInstalled": false,
+    "editor.fontSize": 13,
+    "workbench.startupEditor": "none"
+}
